@@ -1,0 +1,13 @@
+﻿  Main_Parthasarathy.cpp
+c:\users\danica\documents\visual studio 2015\projects\homework5_functions\homework5_functions\main_parthasarathy.cpp(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\danica\documents\visual studio 2015\projects\homework5_functions\homework5_functions\main_parthasarathy.cpp(39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\danica\documents\visual studio 2015\projects\homework5_functions\homework5_functions\main_parthasarathy.cpp(50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\danica\documents\visual studio 2015\projects\homework5_functions\homework5_functions\main_parthasarathy.cpp(54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\danica\documents\visual studio 2015\projects\homework5_functions\homework5_functions\main_parthasarathy.cpp(63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\danica\documents\visual studio 2015\projects\homework5_functions\homework5_functions\main_parthasarathy.cpp(85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Booklist_Parthasarathy.cpp
+c:\users\danica\documents\visual studio 2015\projects\homework5_functions\homework5_functions\booklist_parthasarathy.cpp(113): warning C4101: 'temp': unreferenced local variable
+c:\users\danica\documents\visual studio 2015\projects\homework5_functions\homework5_functions\booklist_parthasarathy.cpp(142): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+c:\users\danica\documents\visual studio 2015\projects\homework5_functions\homework5_functions\booklist_parthasarathy.cpp(102): warning C4715: 'Booklist::find_binary': not all control paths return a value
+  Homework5_functions.vcxproj -> C:\Users\Danica\Documents\Visual Studio 2015\Projects\Homework5_functions\Debug\Homework5_functions.exe

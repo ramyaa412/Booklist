@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{2C133EC3-D4C0-4B27-A8F5-5F60AAE971B0}</ProjectGuid>
+    <ProjectGuid>{6004F2EF-F257-4177-9198-BC3B6C632137}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>home4</RootNamespace>
+    <RootNamespace>Homework5_functions</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -146,7 +146,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Ramyaa_Parthasarathy_BookList.cpp" />
+    <ClCompile Include="Booklist_Parthasarathy.cpp" />
+    <ClCompile Include="Main_Parthasarathy.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BooklistParthasarathy.h" />
+    <ClInclude Include="Main_Parthasarathy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
